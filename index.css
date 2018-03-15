@@ -1,0 +1,108 @@
+
+body
+{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+}
+
+.header-bg {
+    background-color: black;
+}
+
+.header-text
+{
+    color: gray;
+    margin-left: 5%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 5%;
+  }
+
+  a
+  {
+      color: gray;
+      margin-right: 20px;
+  }
+
+.header-img
+{
+    width: 300px;
+    background-image: url("../img/kene.png");
+    background-position: right 20% top 10%;
+    background-attachment: fixed;
+    background-size: 300px;
+    min-height: 300px;
+    background-repeat: no-repeat;
+    z-index: 9999999;
+}
+
+#hello-iam
+{
+    color: white;
+}
+
+#kene
+{
+    color: springgreen;
+    font-size: 45px;
+}
+
+#kene-desc
+{
+    margin-top: 5%;
+}
+
+.img-truppr
+{
+    max-width: 100%;
+    max-height: 100%
+}
+
+h3
+{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+p
+{
+    font-size: 16px;
+}
+
+.skills
+{
+    color: gray;
+}
+
+.footer
+{
+    max-height: 100%;
+    max-width: 100%;
+    background-color: black;
+}
+
+.footer-text
+{
+    text-align: center;
+    vertical-align: middle;
+    color: gray;
+    font-size: 30px;
+}
+
+.footer-text-2
+{
+    text-align: center;
+    vertical-align: middle;
+    color: gray;
+    font-size: 14px;
+}
+
+.social-icon
+{
+    font-size: 45px;
+    float: left;
+    margin-right: 10px;
+}
